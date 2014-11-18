@@ -1,4 +1,4 @@
-def cask(name); dep name, :template => "icelab:cask"; end # Avoid repitition below
+def cask(name); dep name, :template => "pzi:cask"; end # Avoid repitition below
 
 cask "adium"
 cask "alfred"
