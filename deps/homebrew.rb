@@ -1,5 +1,3 @@
-# From https://github.com/bradfeehan/babushka-deps
-
 # Homebrew installs the stuff you need that Apple didn't
 #
 # http://brew.sh/
